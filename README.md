@@ -1,1 +1,2 @@
-"# phase1-python-sql" 
+## Day 1
+- Solved Python logic problems
